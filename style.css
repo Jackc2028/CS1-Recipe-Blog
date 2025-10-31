@@ -1,1 +1,40 @@
+body {
+    background:lightblue;
+    color:rgb(88, 68, 3);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1 {
+    color:beige;
+    text-align:center;
+    font-size:50px;
+}
 
+h2 {
+    color:beige;
+    font-size:30px;
+}
+
+h3 {
+    font: weight 450px;
+    font: size 20px;
+}
+
+.recipe-section {
+    border:4px;
+    padding: 15px;
+    margin: 18px 0;
+    border-width:10px;
+    border-style:groove;
+    border-color:rgb(239, 229, 208);
+}
+
+a {
+    color:rgb(159, 57, 6);
+    text-decoration:none;
+    font-weight:600px
+}
+
+img {
+    border:6px solid beige;
+    padding:4px
+}
